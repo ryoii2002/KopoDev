@@ -12,7 +12,7 @@ namespace WinFormsAppTest1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("전자 계산기 시작");
+            MessageBox.Show("전자 계산기 시작1");
         }
 
         private void AppendTextToTextBox(TextBox textBox, string text)
